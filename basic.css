@@ -62,7 +62,7 @@ nav button:hover {
     width: 60%;
     margin: 0 auto;
     font-family: jf;
-    height: 553px;
+    min-height: 69vh;
 }
 
 #title {
