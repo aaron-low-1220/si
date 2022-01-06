@@ -6,7 +6,6 @@
 body {
     margin: 0px;
     width: 100%;
-    height: 800px;
     background-color: #faffff;
 }
 
@@ -71,7 +70,7 @@ nav button:hover {
 }
 
 #picture {
-    width: 300px;
+    width: 30%;
     border-radius: 10px;
     box-shadow: 1px 1px 10px grey;
     transition: width 0.3s;
@@ -83,13 +82,13 @@ nav button:hover {
 }
 
 #picture:hover {
-    width: 320px;
+    width: 31%;
     transition: width 0.3s;
     transition-timing-function: cubic-bezier(0.1, 1.0);
 }
 
 #allcon {
-    margin-left: 19%;
+    text-align: center;
 }
 
 #content {
