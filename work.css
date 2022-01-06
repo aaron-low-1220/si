@@ -62,6 +62,7 @@ nav button:hover {
     width: 100%;
     text-align: center;
     min-height: 69vh;
+    font-family: jf;
 }
 
 #all img {
