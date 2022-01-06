@@ -95,7 +95,7 @@ nav button:hover {
 #content {
     font-size: 20px;
     display: inline-block;
-    vertical-align: 90px;
+    vertical-align: 60px;
     margin-left: 35px;
     -webkit-animation: fadeInbottom 1s both 2s 0.5;
     -moz-animation: fadeInbottom 1s both 0.5;
